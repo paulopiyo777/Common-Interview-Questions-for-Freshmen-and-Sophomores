@@ -59,3 +59,4 @@ Enjoy Learning and Goodluck!
 35. [Convert an integer to its Roman Symbol](https://github.com/paulopiyo777/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/IntToRoman.ipynb)
 36. [Find the n-th ugly number](https://github.com/paulopiyo777/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/UglyNumbers.ipynb)
 37. [Find the longest common prefix in array of strings](https://github.com/paulopiyo777/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/longestCommonPrefix.ipynb)
+38. [Determine whether an integer is a palindrome](https://github.com/paulopiyo777/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isPalindromeInt.ipynb)
